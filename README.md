@@ -1,2 +1,2 @@
 # cs3240-labdemo
-conflict
+Just a quick edit
